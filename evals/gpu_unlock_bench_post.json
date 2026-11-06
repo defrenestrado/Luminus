@@ -1,0 +1,71 @@
+{
+  "phase": "post",
+  "timestamp": "2026-10-30T02:01:46+00:00",
+  "host": "pop-os",
+  "kernel": "7.0.11-76070011-generic",
+  "cmdline": "initrd=\\EFI\\Pop_OS-67d27adf-aa0f-414d-9297-e7381903ba1f\\initrd.img root=UUID=67d27adf-aa0f-414d-9297-e7381903ba1f ro quiet loglevel=0 systemd.show_status=false splash nvidia-drm.modeset=1 gpu_unlock.targets=0000:01:00.0,0000:02:00.0,0000:09:00.0",
+  "gpu_unlock_loaded": true,
+  "nvidia_smi": "0, NVIDIA GeForce RTX 3060 Ti, 00000000:01:00.0, 240.00 W, 250.00 W, 2115 MHz\n1, NVIDIA GeForce RTX 3060 Ti, 00000000:02:00.0, 200.00 W, 210.00 W, 2100 MHz\n2, NVIDIA GeForce RTX 2060, 00000000:05:00.0, 184.00 W, 184.00 W, 2145 MHz\n3, NVIDIA GeForce RTX 3060 Ti, 00000000:09:00.0, 200.00 W, 215.00 W, 2100 MHz",
+  "tensor": [
+    {
+      "index": 0,
+      "name": "NVIDIA GeForce RTX 3060 Ti",
+      "fp32_tflops": 13.3,
+      "tf32_tflops": 33.1,
+      "bf16_tflops": 63.3,
+      "fp16_tflops": 65.9
+    },
+    {
+      "index": 1,
+      "name": "NVIDIA GeForce RTX 3060 Ti",
+      "fp32_tflops": 12.1,
+      "tf32_tflops": 30.4,
+      "bf16_tflops": 57.9,
+      "fp16_tflops": 59.0
+    },
+    {
+      "index": 2,
+      "name": "NVIDIA GeForce RTX 2060",
+      "fp32_tflops": 7.1,
+      "tf32_tflops": 7.1,
+      "bf16_tflops": 4.4,
+      "fp16_tflops": 32.2
+    },
+    {
+      "index": 3,
+      "name": "NVIDIA GeForce RTX 3060 Ti",
+      "fp32_tflops": 12.7,
+      "tf32_tflops": 32.0,
+      "bf16_tflops": 61.9,
+      "fp16_tflops": 63.7
+    }
+  ],
+  "llm": {
+    "model": "luminus-27b",
+    "prompt_tokens": 4098,
+    "prompt_tokens_per_s": 940.9,
+    "decode_tokens_per_s": 19.3,
+    "wall_s": 8.669,
+    "load_s": 0.44
+  },
+  "comfy": {
+    "flux": {
+      "cold_s": 58.67,
+      "warm_s": [
+        15.74,
+        15.83,
+        16.48
+      ],
+      "median_s": 15.83
+    },
+    "sdxl": {
+      "cold_s": 42.49,
+      "warm_s": [
+        11.9,
+        12.49,
+        12.61
+      ],
+      "median_s": 12.49
+    }
+  }
+}

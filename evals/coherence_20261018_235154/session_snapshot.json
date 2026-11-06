@@ -1,0 +1,107 @@
+{
+  "session": {
+    "id": 14,
+    "character_id": 4,
+    "protagonist_id": 2,
+    "title": "Coerência 30 — Milim",
+    "summary": "",
+    "summarized_until": 0,
+    "turn_count": 6,
+    "created_at": 1792378314.4435265,
+    "updated_at": 1792379465.1269286,
+    "ledger": "{\"turn\": 6, \"location\": \"Nadir\", \"goal\": \"Chegar ao 4B e descobrir o que Milim está procurando.\", \"mood\": \"Nervosa, mas determinada. Seus olhos brilham com uma mistura de medo e expectativa.\", \"pending\": \"Você ganha a confiança de Milim, fortalecendo seu vínculo.\", \"passive\": 0, \"tension\": 0, \"trust\": 5, \"facts\": [\"- Ela é especializada em roubo de alimentos e suprimentos básicos.\", \"- Milim notou atividade incomum no armazem 4B recentemente\", \"- Ela suspeita que o Capitao Gato esteja envolvido em algo maior.\", \"\\\"-\\\"\", \"-O 4B é uma área restrita da Helix Vantara com atividades secretas\", \"-Milim acredita que Ren pode ser útil em sua investigação.\", \"O 4B guarda segredos perigosos\", \"Milim busca um segredo específico.\"], \"npc_notes\": [\"Jogador: Deixo a lata de pêssegos na beirada do contêiner e sento na caixa em frente, sem me aproximar. 'Ouvi | NPC: Milim pode se aproximar para pegar a lata, mas mantendo uma distância segura.\", \"Jogador: 'O armazém 4B. Por que o Capitão Gato está tão interessado nele?' | NPC: Milim pode oferecer pistas vagas sobre a atividade suspeita no armazem.\", \"Jogador: 'O que você precisa em troca? Posso carregar peso, não fazer perguntas.' | NPC: Milim aceita a ajuda de Ren, mas fica atenta a possíveis armadilhas.\", \"Jogador: Quando o holofote do drone varre o beco, puxo ela para trás do contêiner. Ela me empurra uma chave d | NPC: Se conseguirem entrar no 4B, terão acesso a informações valiosas sobre as atividades secretas da Helix Vantara.\", \"Jogador: Divido os pêssegos com ela e digo baixo: 'Os três créditos são metade para cada um. E eu não conto n | NPC: Ren ganha a chave e a confiança de Milim para ajudá-la no roubo no 4B.\", \"Jogador: 'A Luz muda à meia-noite ou nas três badaladas? Nunca entendi o horário daqui.' | NPC: Você ganha a confiança de Milim, fortalecendo seu vínculo.\"], \"nr\": 50, \"axes\": {\"trust\": 60, \"intimacy\": 50, \"respect\": 42, \"tension\": 0}, \"vinculo\": \"A conexão entre vocês cresce, baseada em confiança e compreensão mútua.\"}",
+    "recap": ""
+  },
+  "relationship": {
+    "nr": 50,
+    "axes": {
+      "trust": 60,
+      "intimacy": 50,
+      "respect": 42,
+      "tension": 0
+    },
+    "vinculo": "A conexão entre vocês cresce, baseada em confiança e compreensão mútua.",
+    "name": "milim"
+  },
+  "chapters": [],
+  "messages": [
+    {
+      "id": 153,
+      "role": "assistant",
+      "content": "*Ela se esquiva do feixe de luz da lanterna, pulando por cima de um contêiner antes de aterrissar com uma leveza surpreendente. Segura uma garrafa de água engordurada no bolso do moletom.* — Ei! Se você veio procurar trabalho, esqueça. Se veio para me dar comida... bom, eu não vou negar a caridade. Mas se for só para olhar meu negócio, vai ter que andar por cima do meu corpo.",
+      "created_at": 1792378314.4435265
+    },
+    {
+      "id": 154,
+      "role": "user",
+      "content": "Deixo a lata de pêssegos na beirada do contêiner e sento na caixa em frente, sem me aproximar. 'Ouvi dizer que você troca informação por comida. Tenho uma lata aqui.'",
+      "created_at": 1792378566.9583838
+    },
+    {
+      "id": 155,
+      "role": "assistant",
+      "content": "*Ela te observa atentamente, os olhos brilhando com um misto de desconfiança e curiosidade no meio da escuridão. Depois de alguns segundos, ela se move em direção à lata, pegando-a com cuidado, mas mantendo uma distância segura de você.*\n\n— Isso depende do tipo de informação que você está oferecendo. — *Sua voz é baixa e hesitante, como se esperasse que você mudasse de ideia a qualquer momento.*",
+      "created_at": 1792378654.208771
+    },
+    {
+      "id": 156,
+      "role": "user",
+      "content": "'O armazém 4B. Por que o Capitão Gato está tão interessado nele?'",
+      "created_at": 1792378743.2637472
+    },
+    {
+      "id": 157,
+      "role": "assistant",
+      "content": "*Ela escuta atentamente sua pergunta, os olhos arregalados se fixando em você por um instante antes de desviar o olhar rapidamente. Pega a lata e começa a abrir com uma faca enferrujada que parece ser preciosa.*\n\n— 4B... — *ela murmura, como se testasse o som daquelas palavras.* — Há alguns dias vi movimentação suspeita na área. Carros fortemente guardados entrando e saindo no meio da noite. E o Capitão Gato tem mantido uma distância incomum de sua gangue... *Pausa para tirar uma lasca de lata e começar a comer os pêssegos.* — Mas não faço ideia do que eles estão tramando.",
+      "created_at": 1792378820.8860548
+    },
+    {
+      "id": 158,
+      "role": "user",
+      "content": "'O que você precisa em troca? Posso carregar peso, não fazer perguntas.'",
+      "created_at": 1792378905.8738112
+    },
+    {
+      "id": 159,
+      "role": "assistant",
+      "content": "*Ela olha para você por um momento, como se estivesse avaliando sua oferta. Seus olhos percorrem seu corpo com cautela, verificando suas intenções e habilidades. Depois de alguns segundos ela responde:*\n\n— Ótimo. Eu preciso de alguém para me ajudar a entrar no 4B. Alguém que não vá fazer perguntas. *Ela termina de comer os pêssegos e se levanta, estendendo a mão para você.* — Você pode me ajudar com isso?",
+      "created_at": 1792378976.2795632
+    },
+    {
+      "id": 160,
+      "role": "user",
+      "content": "Quando o holofote do drone varre o beco, puxo ela para trás do contêiner. Ela me empurra uma chave de latão marcada 4B e sussurra para eu segurar enquanto usa as duas mãos.",
+      "created_at": 1792379066.7332952
+    },
+    {
+      "id": 161,
+      "role": "assistant",
+      "content": "*A tensão no ar aumenta quando vocês dois se escondem atrás do contêiner, agachados no escuro. O som dos motores do drone ecoa pelas paredes estreitas do beco, acompanhado pelo brilho intenso de seus holofotes azulados.*\n\n*A mão dela treme ligeiramente enquanto enfia a chave em sua palma. Você pode sentir o calor da pele dela, a transpiração leve nos dedos. Ela respira fundo e sussurra:*\n\n— Esse é o risco que precisamos correr... O 4B guarda segredos perigosos. E eu preciso desse segredo.\n\n*A chave é fria e lisa na palma de sua mão, uma chave de latão marcada com o número 4B. Você pode sentir a importância dela, a tensão que ela representa.*",
+      "created_at": 1792379146.135371
+    },
+    {
+      "id": 162,
+      "role": "user",
+      "content": "Divido os pêssegos com ela e digo baixo: 'Os três créditos são metade para cada um. E eu não conto nada ao Capitão Gato sobre esta chave.'",
+      "created_at": 1792379228.2133994
+    },
+    {
+      "id": 163,
+      "role": "assistant",
+      "content": "*Ela hesita por um momento, olhando para você com uma mistura de incredulidade e cautela. Depois de alguns segundos, ela sorri e pega a lata de volta.*\n\n— Ótimo... Você tem um bom coração, sabia? — *ela diz, pegando os pêssegos que você dividiu.* — E não se preocupe com o Capitão Gato. Se ele souber disso, eu nego tudo.\n\n*A tensão no ar diminui ligeiramente, mas ainda há um nervosismo latente. Ela coloca a lata em seu moletom e olha para você com uma mistura de gratidão e determinação.*\n\n— Vamos fazer isso juntos? — *ela pergunta, seus olhos brilhando com uma mistura de medo e empolgação.*",
+      "created_at": 1792379308.104434
+    },
+    {
+      "id": 164,
+      "role": "user",
+      "content": "'A Luz muda à meia-noite ou nas três badaladas? Nunca entendi o horário daqui.'",
+      "created_at": 1792379389.2637744
+    },
+    {
+      "id": 165,
+      "role": "assistant",
+      "content": "*A tensão no ar diminui um pouco, mas ainda há uma aura de suspense. Ela dá de ombros e responde:*\n\n— A Luz muda na meia-noite. É quando o ciclo diurno da cidade termina e começa um novo. — *Ela pega a lata de volta e continua comendo.* — Não que isso importe muito para nós, não é? Ainda temos que entrar antes dela mudar.\n\n*O som do drone ecoa novamente pelas paredes estreitas do beco, lembrando vocês da proximidade do perigo. O ar parece carregado com a tensão da tarefa que está por vir.*",
+      "created_at": 1792379465.126651
+    }
+  ]
+}

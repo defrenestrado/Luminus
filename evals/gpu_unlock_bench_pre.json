@@ -1,0 +1,71 @@
+{
+  "phase": "pre",
+  "timestamp": "2026-10-30T01:44:53+00:00",
+  "host": "pop-os",
+  "kernel": "7.0.11-76070011-generic",
+  "cmdline": "initrd=\\EFI\\Pop_OS-67d27adf-aa0f-414d-9297-e7381903ba1f\\initrd.img root=UUID=67d27adf-aa0f-414d-9297-e7381903ba1f ro quiet loglevel=0 systemd.show_status=false splash nvidia-drm.modeset=1",
+  "gpu_unlock_loaded": false,
+  "nvidia_smi": "0, NVIDIA GeForce RTX 3060 Ti, 00000000:01:00.0, 240.00 W, 250.00 W, 2115 MHz\n1, NVIDIA GeForce RTX 3060 Ti, 00000000:02:00.0, 200.00 W, 210.00 W, 2100 MHz\n2, NVIDIA GeForce RTX 2060, 00000000:05:00.0, 184.00 W, 184.00 W, 2145 MHz\n3, NVIDIA GeForce RTX 3060 Ti, 00000000:09:00.0, 200.00 W, 215.00 W, 2100 MHz",
+  "tensor": [
+    {
+      "index": 0,
+      "name": "NVIDIA GeForce RTX 3060 Ti",
+      "fp32_tflops": 13.4,
+      "tf32_tflops": 18.4,
+      "bf16_tflops": 36.8,
+      "fp16_tflops": 36.9
+    },
+    {
+      "index": 1,
+      "name": "NVIDIA GeForce RTX 3060 Ti",
+      "fp32_tflops": 12.1,
+      "tf32_tflops": 17.9,
+      "bf16_tflops": 36.0,
+      "fp16_tflops": 36.2
+    },
+    {
+      "index": 2,
+      "name": "NVIDIA GeForce RTX 2060",
+      "fp32_tflops": 7.0,
+      "tf32_tflops": 6.8,
+      "bf16_tflops": 4.4,
+      "fp16_tflops": 32.3
+    },
+    {
+      "index": 3,
+      "name": "NVIDIA GeForce RTX 3060 Ti",
+      "fp32_tflops": 12.7,
+      "tf32_tflops": 18.3,
+      "bf16_tflops": 36.5,
+      "fp16_tflops": 36.6
+    }
+  ],
+  "llm": {
+    "model": "luminus-27b",
+    "prompt_tokens": 4098,
+    "prompt_tokens_per_s": 940.4,
+    "decode_tokens_per_s": 19.3,
+    "wall_s": 8.708,
+    "load_s": 0.46
+  },
+  "comfy": {
+    "flux": {
+      "cold_s": 68.61,
+      "warm_s": [
+        19.62,
+        19.72,
+        19.74
+      ],
+      "median_s": 19.72
+    },
+    "sdxl": {
+      "cold_s": 45.34,
+      "warm_s": [
+        17.75,
+        17.87,
+        17.89
+      ],
+      "median_s": 17.87
+    }
+  }
+}

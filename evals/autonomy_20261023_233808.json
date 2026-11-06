@@ -1,0 +1,236 @@
+{
+  "started_at": "2026-10-23T23:38:08",
+  "api": "http://127.0.0.1:5111",
+  "npc": 13,
+  "protagonist": 8,
+  "cast": [
+    12,
+    11,
+    10
+  ],
+  "idle_turns_planned": 4,
+  "player_turns_planned": 2,
+  "turns": [
+    {
+      "kind": "idle",
+      "turn": 1,
+      "seconds": 80.9,
+      "narration": "O toque da cauda contra a sua calça é firme, uma âncora fria e pesada que não parece com o resto do corpo dela. O cheiro de pele humana limpa, misturado a um fundo de ozônio que vem de você, preenche o nariz sensível de Lala. Ela fecha os olhos por um segundo, inspirando fundo, como se estivesse bebendo o ar que sobrou no porão antes de você sair. A porta metálica do porão range. Não é a sua, mas a de cima, do corredor do Midgrid. O som é áspero, industrial, seguido pelo cheiro inconfundível de produtos de limpeza hospitalar e papel de formulário. Lala congela. A cauda para de balançaar instantaneamente, esticando-se como uma régua rígida atrás dela. Seus olhos azuis se arregalam sob a cortina de cabelo branco, e ela dá um passo para trás, colando as costas na parede de concreto. A mão dela se move para o seu braço, os dedos entrelaçando-se com força nos seus dedos — não como pedido, mas como garantia. — Quem é? — ela sussurra, a voz tão baixa que quase se perde no zumbido do seu chip. — Não é da Ninhada... cheiro de tinta nova. E medo. — Ela olha para a porta, depois para você, e seus lábios se curvam em um sorriso triste, quase doloroso. — Você tem que se esconder. Agora. Antes que ela te veja... e te conte o quanto você deve.",
+      "world_event": "",
+      "env": {
+        "location": "Nadir",
+        "time": "",
+        "scene_id": 0,
+        "scene_location": "Nadir",
+        "present": [
+          "Lala",
+          "Bete Ferrugem",
+          "Téo \"Agulha\"",
+          "Lívia Sarmento"
+        ],
+        "transition": ""
+      }
+    },
+    {
+      "kind": "idle",
+      "turn": 2,
+      "seconds": 86.5,
+      "narration": "A porta do porão abre com um range metálico que ecoa pelas paredes úmidas. A luz rosa artificial do corredor corta a escuridão do subsolo, projetando sombras longas e distorcidas sobre o concreto. Lívia Sarmento entra primeiro. Seus passos são silenciosos, amortecidos pelas solas dos sapatos, mas há uma rigidez em seus ombros que denuncia a tensão. Ela segura o tablet com as duas mãos, a tela rachada iluminando seu rosto cansado de um brilho azulado. O crachá do DAB reflete a luz na altura do peito, girando levemente com cada movimento. — Boa noite — diz ela, a voz pausada e plana, como quem lê uma linha de código. — O senhor Jhon está aqui? Temos uma pendência de auditoria que precisa ser regularizada antes da meia-noite do dia seguinte. Ela para no limiar da porta, os olhos varrendo o espaço com uma eficiência fria. Seu olhar encontra Lala, e por um instante, a expressão da auditora hesita. Não é surpresa; é reconhecimento. Lívia não sorri, mas seus lábios se apertam em uma linha fina. — E você, Lala — continua, virando-se para a menina-gato. — Preciso confirmar sua presença neste local. Por favor, identifique-se. Nome completo, registro de fauna e motivo da estadia. Bete Ferrugem, que estava sentada em um banco perto do balcão com uma tigela de sopa fria, levanta-se lentamente. O avental manchado de gordura estala ao se mover. Ela não diz nada, apenas cruza os braços sobre o peito e olha para Lívia com uma intensidade quieta. A faca de cozinha na cintura reflete a luz rosa por um breve segundo. Téo Agulha, do outro lado da sala, ajusta os óculos de aumento. A lente vermelha gira em seus olhos enquanto ele observa a cena. Seus dedos tamborilam suavemente sobre a mesa de trabalho, perto de uma agulha de chip abandonada. Ele não se move, mas sua postura se endireita, pronta para ação ou para comentário seco, dependendo do que vir a seguir.",
+      "world_event": "nenhuma, o jogador não agiu neste turno",
+      "transition": "nenhuma, continuidade imediata do porão do Midgrid",
+      "env": {
+        "location": "Nadir",
+        "time": "02:41",
+        "scene_id": 1,
+        "scene_location": "Nadir",
+        "present": [
+          "Lala",
+          "Bete Ferrugem",
+          "Téo \"Agulha\""
+        ],
+        "transition": "nenhuma, continuidade imediata do porão do Midgrid"
+      }
+    },
+    {
+      "kind": "idle",
+      "turn": 3,
+      "seconds": 104.8,
+      "narration": "A cauda de Lala balança uma única vez, lenta e precisa, como o ponteiro de um relógio parado. Ela não se move do lugar, mas seus olhos azuis fixam-se no tablet rachado de Lívia. O cheiro da auditora é... estéril. Líquido para limpeza industrial misturado a suor frio. Lala prefere o cheiro do jogador: ozônio, café velho e óleo. — Eu... — A voz de Lala é um fio, quase engolida pelo zumbido baixo do gerador no porão. Ela puxa as mangas da blusa transparente para perto das bochechas, um gesto instintivo de proteção. — Eu estou aqui. Por ele. Ela inclina a cabeça levemente, os fios brancos caindo sobre o rosto como uma cortina de vidro. O olhar desliza por um instante para Bete, que permanece imóvel, e então volta para Lívia, evitando contato visual direto por mais do que dois segundos. — Registro... eu não carrego o papel. Ele tem — Lala aponta vagamente na direção onde o jogador deveria estar, sem nomeá-lo diretamente, como se a menção fosse algo frágil que poderia quebrar. — Você sabe disso. Não é novo. A cauda dela para de balançar. Fica quieta, enrolada ao redor do tornozelo. O silêncio na sala espessa, carregado com o zumbido elétrico e o cheiro acentuado de antisséptico barato que parece invadir o espaço como uma invasão.",
+      "world_event": "",
+      "transition": "nenhuma, continuidade imediata do porão do Midgrid",
+      "env": {
+        "location": "Nadir",
+        "time": "02:41",
+        "scene_id": 1,
+        "scene_location": "Nadir",
+        "present": [
+          "Lala",
+          "Bete Ferrugem",
+          "Téo \"Agulha\""
+        ],
+        "transition": "nenhuma, continuidade imediata do porão do Midgrid"
+      }
+    },
+    {
+      "kind": "idle",
+      "turn": 4,
+      "seconds": 579.6,
+      "narration": "O silêncio não se preenche; ele pesa. O ar no porão fica denso, saturado pelo cheiro metálico do ozônio que emana da prótese do jogador e pela esterilidade cortante do perfume de Lívia. As duas essências se chocam no nariz de Lala como lâminas invisíveis. Ela fecha os olhos por um instante, as pálpebras vibrando levemente, filtrando o odor hostil. Bete Ferrugem não desvia o olhar do tablet rachado na mão da auditora. Seus dedos grossos tamborilam uma vez, seca e curta, contra a borda de madeira da mesa onde repousa uma tigela de sopa fria. O som é abafado, mas chega aos ouvidos de Lala como um trovão distante. — Auditoria — Bete fala alto, a voz rouca cortando o zumbido dos cabos expostos no teto. Ela não sorri, mas o canto da boca se contrai, uma linha dura contra a barba grisalha. — Cheirando a hospital. Que bom. A gente achou que ia ter que abrir a porta para você entrar de qualquer jeito. Téo \"Agulha\" ajusta os óculos de aumento, a lente vermelha capturando um fragmento da luz rosa artificial que entra pela fresta da porta. Ele está encostado na parede, os dedos manchados de solda pendendo preguiçosamente ao lado do corpo. — Voltagem baixa — ele comenta, seco, sem tirar os olhos de Lala. — Mas o circuito está fechado. Ninguém vai puxar o plugue enquanto eu estiver aqui. Ele dá uma mordida curta no lábio inferior, a ironia pairando como fumaça. A presença de Lívia não o incomoda abertamente, mas sua postura se fecha um grau, os ombros subindo levemente, como quem protege um equipamento sensível de uma mudança de pressão. Lala abre os olhos. A pupila dilata e contraí rapidamente, focando no rosto de Bete, depois em Téo, e por fim... no jogador. Ela dá um passo à frente, minúsculo. Suficiente para encostar o quadril na perna dele, sentindo a vibração elétrica da prótese através do tecido. — Você vai perguntar o que ela quer — sussurra",
+      "world_event": "Lívia não reage à presença de Lala e Téo, focada em seu tablet rachado; a tensão no ar aumenta por um momento antes que Bete Ferrugem intervenha para quebrar o silêncio.",
+      "transition": "Deslocamento para Porão do Midgrid",
+      "env": {
+        "location": "Porão do Midgrid",
+        "time": "02:41",
+        "scene_id": 2,
+        "scene_location": "Porão do Midgrid",
+        "present": [
+          "Lala",
+          "Bete Ferrugem",
+          "Téo \"Agulha\""
+        ],
+        "transition": "Deslocamento para Porão do Midgrid"
+      }
+    },
+    {
+      "kind": "player",
+      "turn": 5,
+      "seconds": 67.4,
+      "action": "Encosto na porta e fico quieto, escutando o ambiente por um instante.",
+      "narration": "O silêncio se estica, pesado como uma lâmina de aço sobre a mesa. O zumbido constante do gerador no canto do porão parece ficar mais alto, preenchendo as lacunas deixadas pela ausência de fala. A luz rosa do corredor acima projeta sombras longas e distorcidas no chão úmido, onde poças de óleo brilham com uma bricolagem molhada. Lala não se move. A cauda dela, fina e branca como um fio de vidro, dá uma balançada única, lenta, contra a perna da calça. Não é um gesto acidental; é uma âncora. Ela cheira a chuva recente e a algo adocicado, quase artificial, que entra em choque com o ozônio metálico da sua prótese. Seus olhos azuis, grandes e úmidos sob a cortina de cabelo branco, fixam-se no seu rosto por um segundo a mais do que seria natural. Depois, ela desvia o olhar para baixo, mordiscando o próprio lábio inferior com uma delicadeza que parece ensaiada. Bete Ferrugem solta o ar pelo nariz, um som grave e impaciente. Ela cruza os braços sobre o avental manchado de gordura, a postura rígida como quem espera que a sopa esfrie antes de servir. — Tá parado aí, Jhon? — A voz dela é baixa, arranhada, mas firme. — Se vai ficar encostado na porta escutando a chuva bater, sai daqui. A gente não tem hora pra fechar. E a fila... — Ela bate a palma da mão na mesa de metal, um estrondo seco que faz as canecas vibrarem. — ...a fila tá esperando. Téo \"Agulha\" afrouxa o colarinho do jaleco cinza, os dedos tamborilando ritmicamente na coxa. Ele não olha para você diretamente; o foco parece estar na lente vermelha dos óculos, como se estivesse medindo a tensão elétrica do ar. — O circuito tá aberto — murmura ele, seco, quase inaudível. — Mas a voltagem tá instável. Se alguém não puxa o gatilho em cinco segundos, o sistema vai entrar em modo de economia. E",
+      "environment_echo": [
+        "porta",
+        "escutando"
+      ],
+      "env": {
+        "location": "Porão do Midgrid",
+        "time": "02:41",
+        "scene_id": 2,
+        "scene_location": "Porão do Midgrid",
+        "present": [
+          "Lala",
+          "Bete Ferrugem",
+          "Téo \"Agulha\""
+        ],
+        "transition": ""
+      }
+    },
+    {
+      "kind": "player",
+      "turn": 6,
+      "seconds": 68.1,
+      "action": "Olho ao redor com calma e reparo no que mudou desde que cheguei.",
+      "narration": "O ar do porão parece engrossar quando seus olhos varrem o espaço. Não é apenas a luz rosa do corredor acima cortando a penumbra; é a sensação de que cada canto foi medido, calculado, esperando a sua reação. Lala dá um passo à frente. É minúsculo, quase imperceptível, mas o tecido leve do seu traje balança como uma folha ao vento. Ela para exatamente no limite da sua zona pessoal, perto o suficiente para que você sinta o calor fraco irradiando dela, longe o bastante para manter a fachada de vulnerabilidade intacta. Seus olhos azuis seguem o movimento do seu olhar. Não piscam. Não por muito tempo. Quando o seu foco desvia para ela, a cauda branca dela dá um balanço lento, mecânico, contra a perna da calça. O som é abafado pelo zumbido do gerador, mas você sente a vibração no peito. — Você... — A voz dela é um fio de seda sobre vidro. Baixa. Instável. — ...você tá olhando pro nada, né? Ela engole em seco, os dedos tamborilando nervosamente na própria coxa. Mas as pontas dos dedos estão firmes. Secas. Sem tremor real. — A Bete disse que a cozinha fecha em uma hora. — Ela levanta o rosto, os olhos marejados de uma emoção que parece performance pura. — E o Téo... ele tá insuportável quando tá com pressa. Eu só... não queria que você ficasse sozinho no escuro. Do outro lado da mesa de metal, Bete Ferrugem limpa as mãos no avental. O movimento é brusco. Ela para, o pano parado no meio do ar, e te encara com uma calma predatória. A faca de cozinha na cintura reflete a luz rosa em um ponto cego. — Olhou pro que precisava? — Bete pergunta, a voz rouca, sem humor. — Porque se viu alguma coisa ali naquela pilha de caixas, fala agora. Antes que eu jogue tudo no lixo. Téo \"Agulha\" não disse nada. Ele apenas ajustou a lente vermelha dos óculos com um dedo manchado de solda, o movimento tão preciso que soou como um clique de relógio suí",
+      "environment_echo": [
+        "redor"
+      ],
+      "env": {
+        "location": "Porão do Midgrid",
+        "time": "02:43",
+        "scene_id": 3,
+        "scene_location": "Porão do Midgrid",
+        "present": [
+          "Lala",
+          "Bete Ferrugem",
+          "Téo \"Agulha\""
+        ],
+        "transition": "O jogador decide parar de permanecer imóvel e começa a observar o ambiente, quebrando o silêncio que Lala estava usando como arma de pressão. A mudança de postura do jogador é notada instantaneamente por todos os presentes."
+      }
+    }
+  ],
+  "failures": [],
+  "warnings": [],
+  "session_id": 60,
+  "opening_seconds": 42.2,
+  "opening": "O cheiro de ozônio e café frio da sua prótese improvisada mistura-se à umidade do porão. Lá fora, o neon do Midgrid pulsa através das frestas da porta metálica, tingindo as sombras de um rosa artificial que não alcança a sua pele pálida. Lala está encolhida contra a parede de concreto exposto, seus cabelos brancos curtos caindo como uma cortina de vidro sobre os olhos azuis. Ela é pequena, frágil, seu traje leve quase transparente desenha a estrutura fina dos ombros, mas a tensão nos músculos revela outra coisa. A cauda dela balança com precisão mecânica, um tic nervoso que corta o silêncio enquanto ela estuda cada detalhe do seu rosto, das cicatrizes ao redor do olho esquerdo até a lente quebrada dos seus óculos de realimentação. Ela levanta a mão trêmula, os dedos longos e pálidos se aproximando do seu rosto, mas congela a um milímetro da sua bochecha. O olhar fixo dela, sem piscar, parece dissecar você antes de desviar rapidamente para a sua gola, onde o ar parece mais denso. — Você... tá cheirando a alguém — ela sussurra, a voz suave, quase sumindo no zumbido do seu chip. — A um lugar longe daqui. É perigoso lá fora, não sabe? Os bichos grandes... eles machucam o que é bonito. ",
+  "finished_at": "2026-10-23T23:55:29",
+  "final_state": {
+    "turn": 6,
+    "location": "Porão do Midgrid",
+    "time": "02:43",
+    "scene": {
+      "id": 3,
+      "title": "Cena inicial",
+      "location": "Porão do Midgrid",
+      "present": [
+        "Lala",
+        "Bete Ferrugem",
+        "Téo \"Agulha\""
+      ],
+      "action": "iniciar",
+      "turn": 6,
+      "ended": false,
+      "transition": "O jogador decide parar de permanecer imóvel e começa a observar o ambiente, quebrando o silêncio que Lala estava usando como arma de pressão. A mudança de postura do jogador é notada instantaneamente por todos os presentes.",
+      "reason": ""
+    },
+    "offscreen": [
+      {
+        "turn": 4,
+        "npc": "Lívia Sarmento",
+        "npc_id": 10,
+        "archetype": "comum",
+        "kind": "conversa",
+        "text": "Lívia Sarmento teve uma conversa tensa com alguém do elenco.",
+        "visibility": "rumor",
+        "location": "Porão do Midgrid",
+        "consequence": "Pode chegar como rumor; não é conhecimento automático do jogador."
+      }
+    ],
+    "passive": 0
+  },
+  "environment": {
+    "times": [
+      "",
+      "02:41",
+      "02:41",
+      "02:41",
+      "02:41",
+      "02:43"
+    ],
+    "locations": [
+      "Nadir",
+      "Nadir",
+      "Nadir",
+      "Porão do Midgrid",
+      "Porão do Midgrid",
+      "Porão do Midgrid"
+    ],
+    "location_mismatches": [],
+    "teleports": [],
+    "present_unknown": []
+  },
+  "autonomy": {
+    "world_events": [
+      "nenhuma, o jogador não agiu neste turno",
+      "Lívia não reage à presença de Lala e Téo, focada em seu tablet rachado; a tensão no ar aumenta por um momento antes que Bete Ferrugem intervenha para quebrar o silêncio."
+    ],
+    "offscreen": [
+      {
+        "turn": 4,
+        "npc": "Lívia Sarmento",
+        "npc_id": 10,
+        "archetype": "comum",
+        "kind": "conversa",
+        "text": "Lívia Sarmento teve uma conversa tensa com alguém do elenco.",
+        "visibility": "rumor",
+        "location": "Porão do Midgrid",
+        "consequence": "Pode chegar como rumor; não é conhecimento automático do jogador."
+      }
+    ],
+    "voices": [
+      {
+        "kind": "aviso",
+        "author": "o Conselho do porto"
+      }
+    ]
+  },
+  "coherence": {
+    "ok": true,
+    "severity": "baixa",
+    "issues": [],
+    "summary": "Nenhuma contradição factual detectada. A narrativa mantém a fachada de vulnerabilidade de Lala e a tensão psicológica sem violar o estado (ferimentos, objetos, presença de NPCs ou flags). A observação do jogador é tratada como percepção subjetiva, não como fato objetivo do mundo.",
+    "model": "qwen38-9b-heretic-q5",
+    "turn": 6,
+    "checked_at": 1792810529.1864145
+  },
+  "result": "PASS"
+}

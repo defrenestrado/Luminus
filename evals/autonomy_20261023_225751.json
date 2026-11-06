@@ -1,0 +1,260 @@
+{
+  "started_at": "2026-10-23T22:57:51",
+  "api": "http://127.0.0.1:5111",
+  "npc": 13,
+  "protagonist": 8,
+  "cast": [
+    12,
+    11,
+    10
+  ],
+  "idle_turns_planned": 4,
+  "player_turns_planned": 2,
+  "turns": [
+    {
+      "kind": "idle",
+      "turn": 1,
+      "seconds": 64.7,
+      "narration": "A ponta da cauda de Lala não apenas toca; ela enrola. Os pelos brancos deslizam sobre a pele do seu tornozelo com uma pressão surpreendente, firme e deliberada, quebrando a ilusão de que ela está apenas encolhida. O contato é frio, mais frio do que a temperatura ambiente do porão deveria permitir. Bete Ferrugem, que estava de costas limpando uma tábua de carne grossa, para o movimento. A faca na cintura reflete a luz vermelha da porta. Ela não se vira, mas a mandíbula tensa e o cheiro súbito de ozônio misturado a um odor doce e metálico — pele — fazem o nariz dela se arrugar. — Aí... olha isso — Bete diz, a voz baixa, sem o habitual volume de cozinha. Ela aponta o cabo da faca na direção de Lala, sem tirar os olhos da carne. — Cheirou a hospital. E a medo barato. Você tá com o pulso rápido, gatinha? Ou é só o ar-condicionado quebrado de novo? Téo \"Agulha\" ajusta os óculos de aumento, a lente vermelha girando lentamente enquanto ele examina a mão de Lala, que agora repousa sobre o seu braço. Seus dedos estão manchados de solda e ele não recua. Pelo contrário, ele inclina a cabeça, estudando as veias finas da mulher-gato. — Curioso — murmura Téo, seco, sem olhar para os outros. — Estresse gera sudorese. Adrenalina, cortisol. Mas a pele dela... tá seca. Seca como papelão. — Ele ergue o olhar pela lente vermelha, fixando você com uma calma irritante. — Você está com medo, Lala? Ou está calculando a distância exata entre os meus nervos e a faca da Bete? Lívia Sarmento, sentada à mesa de metal com o tablet rachado aberto, fecha o dispositivo com um clique magnético. Ela cruza os braços, o crachá do DAB batendo contra o peito. — Estatisticamente falando — ela começa, pausada, como quem lê um relatório chato —, a temperatura corporal de uma fauna sob estresse agudo deve cair, mas o fluxo sanguíneo periférico... — Ela fran",
+      "world_event": "Lala toca na mão do jogador com uma frieza surpreendente, não demonstrando medo, mas uma possessividade absoluta. Bete reage imediatamente ao cheiro de ozônio que sai da pele dela, enquanto Téo nota a falta de sudorese e",
+      "transition": "A conversa se aprofunda; Lala decide que o momento de apenas sussurrar acabou e ela quer 'provar' seu ponto com um gesto físico.",
+      "env": {
+        "location": "Nadir",
+        "time": "23:41",
+        "scene_id": 1,
+        "scene_location": "Nadir",
+        "present": [
+          "Lala",
+          "Bete Ferrugem",
+          "Téo \"Agulha\"",
+          "Lívia Sarmento"
+        ],
+        "transition": "A conversa se aprofunda; Lala decide que o momento de apenas sussurrar acabou e ela quer 'provar' seu ponto com um gesto físico."
+      }
+    },
+    {
+      "kind": "idle",
+      "turn": 2,
+      "seconds": 57.7,
+      "narration": "— ...deve aumentar para manter a homeostasia. Mas aqui não há aumento. Há uma estagnação artificial. Lívia termina a frase, mas o peso das palavras morre no ar úmido do porão. Ela desvia o olhar para o próprio tablet, como se as estatísticas fossem mais confiáveis do que a realidade à sua frente. O silêncio que se segue não é vazio; é denso, carregado de cheiro de óleo, suor frio e aquela eletricidade estática que sobe pelos tornozelos de Jhon onde a cauda de Lala ainda repousa. A ponta da cauda apertou levemente. Não é um gesto carinhoso. É uma ancoragem. Lala levanta os olhos. Sob a cortina de cabelo branco, seus iris azuis brilham com uma intensidade que não combina com o corpo frágil encolhido na cadeira. Ela não recua quando Téo examina sua pele, nem quando Bete mantém a faca à mão. Pelo contrário, ela inclina a cabeça para o lado, um gesto de ave, e seu nariz se move uma única vez, lento, processando os odores do ambiente. — Você... você está cheirando a metal — sussurra Lala, a voz tão baixa que quase se perde no zumbido dos chips de Jhon. — E a Bete tem cheiro de sangue velho. Não é ruim. É... familiar. Ela estende a mão livre, os dedos longos e pálidos pairando sobre o braço de Téo, sem tocá-lo. Depois, seus olhos deslizam para Jhon, fixando-se no ponto onde sua cauda o prende. — Você não vai me afastar, vai? — A pergunta não é um pedido. É uma verificação. O sorriso que se forma nos lábios dela é pequeno, tímido, mas os olhos não piscam. — Se você tentar me tirar de perto, eu... eu vou sentir falta do calor. E frio dói mais, sabe?",
+      "world_event": "O jogador sente a pele arrepiar ao contato do animal, percebendo que o toque não é de medo, mas de posse absoluta.",
+      "transition": "Deslocamento para Porão de Nadir",
+      "env": {
+        "location": "Porão de Nadir",
+        "time": "23:41",
+        "scene_id": 2,
+        "scene_location": "Porão de Nadir",
+        "present": [
+          "Jhon",
+          "Lala",
+          "Bete Ferrugem",
+          "Téo \"Agulha\""
+        ],
+        "transition": "Deslocamento para Porão de Nadir"
+      }
+    },
+    {
+      "kind": "idle",
+      "turn": 3,
+      "seconds": 61.6,
+      "narration": "A ponta da cauda não se move. Ela permanece ali, ancorada no tornozelo de Jhon como uma âncora de ferro fino, transmitindo uma vibração quase inexistente, mas perceptível pela pele. A eletricidade estática cruza o espaço entre eles em microdescargas secas, estalando no ar com o cheiro acre de ozônio barato que sobe, denso, misturando-se ao aroma metálico dos circuitos expostos do braço prótese dele. Lala não tira o corpo para trás. Pelo contrário, ela inclina a cabeça levemente para o lado, um gesto de ave estudando o voo da presa. Seus olhos azuis, fixos em Jhon por um segundo a mais do que o socialmente aceitável, capturam o reflexo da luz vermelha pulsante da rua externa. A luz corta o porão úmido, iluminando por uma fração de segundo a lâmina da faca que Bete Ferrugem segura contra a coxa, o metal raspando levemente contra o tecido do avental manchado. — O seu cheiro mudou — Lala sussurra, a voz suave, quase se perdendo no zumbido dos chips de Jhon. — Não é mau. É... novo. Como quando a chuva para e o ar fica parado. Você vai me dizer o que foi? Ou vai deixar eu adivinhar? Ela estende a mão livre, os dedos pálidos e longos pairando a centímetros do rosto de Jhon, sem tocá-lo. O gesto é delicado, vulnerável, mas o movimento é preciso, calculado. A cauda continua apertada. Se ele se mover para fugir, vai sentir a pressão aumentar. — Eu não gosto de surpresas — ela acrescenta, os olhos ainda fixos nele, esperando que ele quebre primeiro.",
+      "world_event": "A frieza da cauda de Lala faz Jhon recuar instintivamente, quebrando o ciclo de tensão silenciosa e forçando um momento de desmascaramento social.",
+      "env": {
+        "location": "Porão de Nadir",
+        "time": "23:41",
+        "scene_id": 2,
+        "scene_location": "Porão de Nadir",
+        "present": [
+          "Jhon",
+          "Lala",
+          "Bete Ferrugem",
+          "Téo \"Agulha\""
+        ],
+        "transition": ""
+      }
+    },
+    {
+      "kind": "idle",
+      "turn": 4,
+      "seconds": 63.9,
+      "narration": "O silêncio no porão não é vazio; é denso, pesado como a umidade que gruda na garganta. O zumbido do chip de Jhon parece ter aumentado de volume, uma frequência aguda que bate nos ossos da têmpora. A luz vermelha de emergência pisca no ritmo lento de um coração em sofrimento, projetando sombras longas e distorcidas das figuras ao redor. Bete Ferrugem não tira a mão da cintura. O dedo indicador dela desliza, quase imperceptível, ao longo do cabo da faca. Seus olhos, turvos por trás das lentes sujas, alternam entre Jhon e Lala com a atenção de quem vigia uma panela que pode transbordar a qualquer segundo. O ar cheira a óleo velho, café requentado e algo mais orgânico — o suor frio de tensão que impregna a pele de quem espera uma decisão. Téo \"Agulha\" está encostado na parede oposta, os braços cruzados sobre o peito largo. Ele não olha para Jhon nem para Lala diretamente; seu foco está na mão estendida dela, nos dedos que parecem querer medir a distância exata até a pele de Jhon, mas que hesitam no ar. Os lábios dele se movem, formando palavras em um volume tão baixo que é mais vibração do que som. Ele coça a cicatriz em estrela na nuca, um gesto nervoso que revela o vício de consertar o que está quebrado — ou de verificar se ele mesmo ainda funciona. Lala mantém a pose. A cauda continua enrolada no tornozelo de Jhon, firme. Ela não força, não puxa. Apenas... existe ali. Um ponto de contato inegável. A respiração dela é curta, superficial, como a de um animal que aprendeu a ficar imóvel para não ser visto. Mas os olhos azuis não piscam. Não agora. — Você vai me responder? — a voz dela é baixa, quase um sussurro, mas corta o ar com uma clareza surpreendente. — Ou prefere deixar o silêncio fazer isso por você? A pergunta paira, suspensa na eletricidade estática do ambiente. A luz vermelha pisca novamente. Blink. Blink. Blink.",
+      "world_event": "A frieza da cauda de Lala e a ausência de reação dela ao toque forçam Jhon a explicar sua reação, quebrando o silêncio e expondo sua desconfiança ao grupo.",
+      "env": {
+        "location": "Porão de Nadir",
+        "time": "23:41",
+        "scene_id": 2,
+        "scene_location": "Porão de Nadir",
+        "present": [
+          "Jhon",
+          "Lala",
+          "Bete Ferrugem",
+          "Téo \"Agulha\""
+        ],
+        "transition": ""
+      }
+    },
+    {
+      "kind": "player",
+      "turn": 5,
+      "seconds": 59.7,
+      "action": "Encosto na porta e fico quieto, escutando o ambiente por um instante.",
+      "narration": "O impacto contra a madeira da porta é seco, mudo. Seus ombros tocam o batente frio, e você para de mover-se. O zumbido do chip continua lá, uma linha fina de estática no fundo da cabeça, mas o mundo ao redor parece ter desacelerado. Bete Ferrugem não se move. A mão dela permanece sobre a lâmina da faca, os nós dos dedos brancos de tensão. Ela não respira audivelmente. Os olhos dela, turvos atrás das lentes sujas, fixam-se no seu rosto por três segundos longos antes de deslizarem para Lala, e depois voltarem para você. É um olhar que pesa. Que cobra. Téo \"Agulha\" solta um suspiro baixo pela nariz. Ele afrouxa os braços cruzados, mas a postura continua rígida. Seus dedos tamborilam uma vez, seca, contra o próprio braço. Tac. O som é nítido no silêncio. E então, Lala. A cauda dela está ali. No seu tornozelo. Não é quente. Não é fria como pedra, mas não tem a temperatura corporal de um ser vivo. É uma neutralidade absoluta, um toque que não pede permissão porque não reconhece a existência da pele sob ela. A sensação sobe pela perna, não como dor, mas como uma âncora. Algo que prende. Lala não olha para você. O olhar dela está voltado para o chão, entre os pés de vocês dois. Os lábios dela se partem, secos, e a voz sai quase inaudível, misturada ao cheiro acre de ozônio que emana do seu braço prótesico. — Você está... escutando? — ela pergunta, a cabeça inclinada para o lado, um gesto frágil, quase quebradiço. — Ou só... esperando que eu desista primeiro?",
+      "environment_echo": [
+        "porta",
+        "escutando"
+      ],
+      "env": {
+        "location": "Porão de Nadir",
+        "time": "23:41",
+        "scene_id": 2,
+        "scene_location": "Porão de Nadir",
+        "present": [
+          "Lala",
+          "Jhon",
+          "Bete Ferrugem",
+          "Téo \"Agulha\""
+        ],
+        "transition": ""
+      }
+    },
+    {
+      "kind": "player",
+      "turn": 6,
+      "seconds": 70.1,
+      "action": "Olho ao redor com calma e reparo no que mudou desde que cheguei.",
+      "narration": "O movimento é lento, quase mecânico. Você desliza o olhar pela penumbra do porão, filtrando a realidade através da lente direita quebrada dos seus óculos de AR. A luz vermelha de emergência pisca no ritmo lento e arrastado de um coração em sofrimento, projetando sombras longas e distorcidas que se esticam contra as paredes úmidas de concreto. O ar é pesado. O cheiro de ozônio e ferrugem queimada se intensifica, misturando-se com o odor metálico da sopa fria na mesa coberta pela toalha de pano grosso. Sua perna direita late levemente onde a cauda de Lala ainda descansa, uma âncora fria que não se move. Bete Ferrugem continua imóvel. A mão dela permanece sobre a faca, os nós dos dedos contraídos. Ela observa seu movimento com a mesma intensidade de quem calcula o peso de um ingrediente caro antes de adicioná-lo ao prato. Não há hostilidade óbvia, mas uma vigilância que sugere que qualquer gesto brusco será cobrado em moeda forte. Téo \"Agulha\" ajusta os óculos de aumento. A lente vermelha captura a luz piscante, refletindo um ponto minúsculo e brilhante na direção do seu rosto. Ele não fala, mas seus olhos percorrem a pele de Lala com uma curiosidade clínica, procurando suor que não existe, tremores que ela não oferece. E então, o foco volta para ela. Lala acompanha seu olhar. Não desvia. A cabeça dela permanece inclinada, os fios de cabelo branco caindo como cortinas de vidro sobre aqueles olhos azuis, intensos e imperturbáveis. Quando você se move, a cauda dela não se retira. Pelo contrário: ela se ajusta ao contorno do seu tornozelo com uma precisão mecânica, apertando levemente. Não é um aperto doloroso. É possessivo. Ela levanta o rosto. O movimento é suave, mas há algo de rígido na mandíbula. Seus lábios se separam, e a voz sai baixa, quase um sussurro que parece vir de dentro do seu próprio crânio. — Você está olhando para as saídas... — ela diz, o tom suave, mas com uma pontuação final que não é uma pergunta. — ...antes",
+      "environment_echo": [],
+      "env": {
+        "location": "Porão de Nadir",
+        "time": "23:41",
+        "scene_id": 2,
+        "scene_location": "Porão de Nadir",
+        "present": [
+          "Jhon",
+          "Lala",
+          "Bete Ferrugem",
+          "Téo \"Agulha\""
+        ],
+        "transition": ""
+      }
+    }
+  ],
+  "failures": [
+    "juiz de consistência reprovou: media | O jogador rompeu o silêncio e observou mudanças no ambiente, mas o estado atual não foi atualizado para refletir essa nova realidade, mantendo a descrição de 'silêncio prolongado' e sem registrar as m"
+  ],
+  "warnings": [
+    "player 2: resposta não ecoou palavras do ambiente (redor, desde)",
+    "relógio do mundo não avançou em 6 turnos (hora fixa: 23:41)",
+    "2 issue(s) de consistência"
+  ],
+  "session_id": 58,
+  "opening_seconds": 25.2,
+  "opening": "Cheiro de ozônio barato, café frio e metal oxidado impregna o ar do porão. A chuva lá fora bate contra as janelas de vidro fosco com um ritmo irregular, enquanto a luz neon da rua externa pulsa em vermelho sangrento através das frestas da porta trancada. Você percebe que Lala está encostada na parede de concreto, os ombros encolhidos como se o peso do teto fosse esmagá-la a qualquer segundo. Seus 1,50m parecem ainda menores na penumbra, a estrutura frágila contrastando com a cauda longa que balança em uma precisão mecânica, cortando o ar atrás dela com um zumbido sutil. Os cabelos brancos e curtos caem desalinhados sobre os olhos azuis, criando uma cortina de vidro. Ela ergue a mão, trêmula, buscando seu rosto, mas o dedo congela a milímetros da sua pele pálida. Por um instante, seu olhar não pisca; ele devora cada cicatriz fina ao redor do seu olho esquerdo, cada detalhe da prótese barulhenta no seu braço direito, antes de desviar abruptamente para a gola da sua jaqueta. — Você... você tá cheirando a alguém. A um lugar longe daqui... — Sua voz é um sussurro quase inaudível, quebrado por uma hesitação calculada. — É perigoso lá fora, você sabe? Os bichos grandes machucam o que é bo",
+  "finished_at": "2026-10-23T23:04:52",
+  "final_state": {
+    "turn": 6,
+    "location": "Porão de Nadir",
+    "time": "23:41",
+    "scene": {
+      "id": 2,
+      "title": "O Toque Frio",
+      "location": "Porão de Nadir",
+      "present": [
+        "Jhon",
+        "Lala",
+        "Bete Ferrugem",
+        "Téo \"Agulha\""
+      ],
+      "action": "continuar",
+      "turn": 6,
+      "ended": false,
+      "transition": "",
+      "reason": ""
+    },
+    "offscreen": [
+      {
+        "turn": 4,
+        "npc": "Lívia Sarmento",
+        "npc_id": 10,
+        "archetype": "comum",
+        "kind": "rotina",
+        "text": "Lívia Sarmento mudou a rotina e foi visto em um lugar onde não costuma ir.",
+        "visibility": "publico",
+        "location": "Porão de Nadir",
+        "consequence": "Pode chegar como rumor; não é conhecimento automático do jogador."
+      }
+    ],
+    "passive": 0
+  },
+  "environment": {
+    "times": [
+      "23:41",
+      "23:41",
+      "23:41",
+      "23:41",
+      "23:41",
+      "23:41"
+    ],
+    "locations": [
+      "Nadir",
+      "Porão de Nadir",
+      "Porão de Nadir",
+      "Porão de Nadir",
+      "Porão de Nadir",
+      "Porão de Nadir"
+    ],
+    "location_mismatches": [],
+    "teleports": [],
+    "present_unknown": []
+  },
+  "autonomy": {
+    "world_events": [
+      "Lala toca na mão do jogador com uma frieza surpreendente, não demonstrando medo, mas uma possessividade absoluta. Bete reage imediatamente ao cheiro de ozônio que sai da pele dela, enquanto Téo nota a falta de sudorese e",
+      "O jogador sente a pele arrepiar ao contato do animal, percebendo que o toque não é de medo, mas de posse absoluta.",
+      "A frieza da cauda de Lala faz Jhon recuar instintivamente, quebrando o ciclo de tensão silenciosa e forçando um momento de desmascaramento social.",
+      "A frieza da cauda de Lala e a ausência de reação dela ao toque forçam Jhon a explicar sua reação, quebrando o silêncio e expondo sua desconfiança ao grupo."
+    ],
+    "offscreen": [
+      {
+        "turn": 4,
+        "npc": "Lívia Sarmento",
+        "npc_id": 10,
+        "archetype": "comum",
+        "kind": "rotina",
+        "text": "Lívia Sarmento mudou a rotina e foi visto em um lugar onde não costuma ir.",
+        "visibility": "publico",
+        "location": "Porão de Nadir",
+        "consequence": "Pode chegar como rumor; não é conhecimento automático do jogador."
+      }
+    ],
+    "voices": [
+      {
+        "kind": "relatorio",
+        "author": "um informante pago"
+      }
+    ]
+  },
+  "coherence": {
+    "ok": false,
+    "severity": "media",
+    "issues": [
+      {
+        "tipo": "continuidade",
+        "gravidade": "media",
+        "descricao": "Contradição de estado: O estado atual registra 'pending' como 'O silêncio prolongado de Jhon é interpretado por Bete como uma resposta agressiva e por Lala como uma falha no teste, aumentando a pressão sobre ele para falar.' No entanto, a última mensagem do jogador (Turno 6) mostra que ele rompeu o ",
+        "evidencia": ""
+      },
+      {
+        "tipo": "memoria",
+        "gravidade": "media",
+        "descricao": "Contradição de memória: A última mensagem do jogador (Turno 6) afirma 'Olho ao redor com calma e reparo no que mudou desde que cheguei.' Contudo, o estado atual não registra nenhum evento ou mudança ambiental significativa desde a chegada do jogador (Turno 1), apenas a tensão crescente. Não há evidê",
+        "evidencia": ""
+      }
+    ],
+    "summary": "O jogador rompeu o silêncio e observou mudanças no ambiente, mas o estado atual não foi atualizado para refletir essa nova realidade, mantendo a descrição de 'silêncio prolongado' e sem registrar as mudanças percebidas pelo jogador.",
+    "model": "qwen38-9b-heretic-q5",
+    "turn": 6,
+    "checked_at": 1792807492.138743
+  },
+  "result": "FAIL"
+}

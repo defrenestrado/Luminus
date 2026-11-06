@@ -1,0 +1,47 @@
+# ===== Segredos e ambiente =====
+server/.env
+server/.env.*
+!server/.env.example
+
+# ===== Modelos / pesos grandes (binários) =====
+models/
+server/kokoro/*.onnx
+server/kokoro/*.bin
+server/voices/*.onnx
+server/voices/*.bin
+
+# ===== Dados de runtime =====
+server/data.db
+server/data.db.*
+server/*.log
+server/tts_cache/
+server/art/
+logs/
+*.bak-*
+*.bak
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# ===== Flutter / Dart =====
+app/build/
+app/.dart_tool/
+app/.idea/
+app/*.iml
+app/.flutter-plugins-dependencies
+app/.pub/
+app/coverage/
+app/android/app/debug
+app/android/app/profile
+app/android/app/release
+
+# ===== Builds =====
+dist/
+
+# ===== Sistema / editor =====
+.DS_Store
+*.swp

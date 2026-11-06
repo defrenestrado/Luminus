@@ -1,0 +1,7 @@
+Icones: game-icons.net
+- Lorc (https://game-icons.net) — CC BY 3.0
+- Delapouite (https://delapouite.com) — CC BY 3.0
+Arquivos: spell-book, treasure-map, compass, magic-potion, crossed-swords.
+
+Molduras: Kenney — Fantasy UI Borders (CC0 1.0)
+https://kenney.nl/assets/fantasy-ui-borders

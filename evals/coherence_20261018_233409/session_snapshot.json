@@ -1,0 +1,107 @@
+{
+  "session": {
+    "id": 13,
+    "character_id": 4,
+    "protagonist_id": 2,
+    "title": "Coerência 30 — Milim",
+    "summary": "",
+    "summarized_until": 0,
+    "turn_count": 6,
+    "created_at": 1792377249.3647308,
+    "updated_at": 1792377951.8908968,
+    "ledger": "{\"turn\": 6, \"location\": \"Nadir\", \"goal\": \"Milim revela um detalhe sobre a rotina noturna do setor industrial sem comprometer sua segurança ou a do jogador.\", \"mood\": \"Cético e alerta, ela mantém um tom sarcástico para esconder uma curiosidade genuína sobre a rotina noturna.\", \"pending\": \"Milim compartilha uma observação específica sobre o setor industrial que não revela a localização exata do cofre.\", \"passive\": 0, \"tension\": 0, \"trust\": 3, \"facts\": [\"O armazém 4B pertence a um antigo funcionário da Helix Vantara\", \"Milim já foi lá antes e encontrou comida vencida.\", \"O armazém 4B fica no nível 12 do distrito industrial\", \"o Capitão Gato deve uma dívida a um gângster de raposas.\", \"O armazém pertence à Helix Vantara\", \"o drone é do modelo de vigilância \\\"Falcão-7\\\".\", \"A chave 4B abre o cofre do armazém central\", \"o Capitão Gato monitora todos os becos com sensores térmicos.\"], \"npc_notes\": [\"Jogador: Deixo a lata de pêssegos na beirada do contêiner e sento na caixa em frente, sem me aproximar. 'Ouvi | NPC: A lata é deixada no chão, Milim a pega sem se aproximar fisicamente, mantendo a distância.\", \"Jogador: 'O armazém 4B. Por que o Capitão Gato está tão interessado nele?' | NPC: Milim deixa de ignorar Ren completamente e passa a observar seus olhos enquanto ele pergunta, mudando a dinâmica da conversa.\", \"Jogador: 'O que você precisa em troca? Posso carregar peso, não fazer perguntas.' | NPC: Milim concorda em levar Ren ao armazém, mas exige que ele carregue as caixas do topo ao chão.\", \"Jogador: Quando o holofote do drone varre o beco, puxo ela para trás do contêiner. Ela me empurra uma chave d | NPC: A chave de latão 4B está segura no bolso do jogador, e a ladra se agacha atrás do contêiner, respirando ofegante.\", \"Jogador: Divido os pêssegos com ela e digo baixo: 'Os três créditos são metade para cada um. E eu não conto n | NPC: Milim guarda a chave no bolso interno do moletom e aceita os pêssegos com um sorriso ríspido.\", \"Jogador: 'A Luz muda à meia-noite ou nas três badaladas? Nunca entendi o horário daqui.' | NPC: Milim compartilha uma observação específica sobre o setor industrial que não revela a localização exata do cofre.\"], \"nr\": 33, \"axes\": {\"trust\": 43, \"intimacy\": 33, \"respect\": 35, \"tension\": 7}, \"vinculo\": \"Ela passa a compartilhar pequenas observações cotidianas sobre a cidade, mas mantém o segredo da chave em segurança.\"}",
+    "recap": ""
+  },
+  "relationship": {
+    "nr": 33,
+    "axes": {
+      "trust": 43,
+      "intimacy": 33,
+      "respect": 35,
+      "tension": 7
+    },
+    "vinculo": "Ela passa a compartilhar pequenas observações cotidianas sobre a cidade, mas mantém o segredo da chave em segurança.",
+    "name": "milim"
+  },
+  "chapters": [],
+  "messages": [
+    {
+      "id": 140,
+      "role": "assistant",
+      "content": "*Ela se esquiva do feixe de luz da lanterna, pulando por cima de um contêiner antes de aterrissar com uma leveza surpreendente. Segura uma garrafa de água engordurada no bolso do moletom.* — Ei! Se você veio procurar trabalho, esqueça. Se veio para me dar comida... bom, eu não vou negar a caridade. Mas se for só para olhar meu negócio, vai ter que andar por cima do meu corpo.",
+      "created_at": 1792377249.3647308
+    },
+    {
+      "id": 141,
+      "role": "user",
+      "content": "Deixo a lata de pêssegos na beirada do contêiner e sento na caixa em frente, sem me aproximar. 'Ouvi dizer que você troca informação por comida. Tenho uma lata aqui.'",
+      "created_at": 1792377340.188559
+    },
+    {
+      "id": 142,
+      "role": "assistant",
+      "content": "O cheiro de pêssegos azedo corta o ar saturado de óleo queimado e ozônio da rua. Ela para a respiração, os olhos castanhos se arregalando por um instante antes de descerem para a lata. Não se move, apenas inclina o corpo levemente para frente, observando a distância segura que você manteve entre vocês.\n\nA luz do neon do \"Bar do Capitão Gato\" lá em cima pisca no ritmo dos servidores da Helix, fazendo o brilho nos olhos dela tremer — não de medo, mas de cálculo.\n\n*— Informação é moeda de curso livre. A maioria paga com nomes e endereços. Você pagou com... fruta?*\n\nEla dá uma risada curta, seca, que não chega aos lábios. Estica a mão direita e empurra a lata de um lado para o outro, como se a superfície fosse escorregadia demais.\n\n*— E por que eu deveria acreditar que você não está me vigiando?*",
+      "created_at": 1792377385.8763328
+    },
+    {
+      "id": 143,
+      "role": "user",
+      "content": "'O armazém 4B. Por que o Capitão Gato está tão interessado nele?'",
+      "created_at": 1792377440.4829657
+    },
+    {
+      "id": 144,
+      "role": "assistant",
+      "content": "O som dos seus próprios passos ecoa no chão de concreto, e ela para, a mão ainda esticada sobre a lata como se fosse uma arma. A pergunta sai devagar, mas com a pontilheira fina de quem calcula o custo antes de gastar a moeda.\n\nEla inclina a cabeça para o lado, e por um segundo as orelhas brancas sob o moletom tremem, um músculo contraído sob a pele. Não é medo. É recusa em se entregar a uma armadilha.\n\n*— Capitão Gato...?*\n\nUm rosnado baixo escapa da garganta dela antes que ela possa suprimi-lo. Ela limpa a garganta com o dorso da mão e endireita a postura, os ombros voltando a erguer como se estivesse prestes a entrar em uma briga de rua.\n\n*— O velho tem um problema com o sistema. E eu... eu sei onde ele escondia as chaves do armazém 4B.*\n\nEla dá um passo à frente, mas não se aproxima o suficiente para tocar em você. Os olhos castanhos se encolhem, fixos na sua boca enquanto fala.\n\n*— Ele precisa delas para apagar uma divida antiga. Se eu te disser onde estão... eu quero que me traga algo. Não comida. Algo que ele não possa rastrear.*\n\nA pausa é longa. Ela segura o olhar por mais um segundo, depois solta a lata com um estalo seco e aponta na direção do túnel de carga no canto da rua.\n\n*— Se você quiser ir atrás das chaves... eu guio você. Mas se você me trair no caminho, vou deixar você caindo pela escada de incêndio.*",
+      "created_at": 1792377505.8166084
+    },
+    {
+      "id": 145,
+      "role": "user",
+      "content": "'O que você precisa em troca? Posso carregar peso, não fazer perguntas.'",
+      "created_at": 1792377551.0213404
+    },
+    {
+      "id": 146,
+      "role": "assistant",
+      "content": "Ela cruza os braços sobre o peito, e a tensão nos ombros dela diminui um grau. Não é relaxamento, apenas economia de energia. O cheiro de óleo e graxa sobe do moletom quando ela move o braço.\n\n*— Carregar peso... útil.*\n\nEla dá uma palmada na parte traseira da sua cabeça. Não é carinho. É uma validação pragmática. *— Ótimo. Mas vai ser pesado. E o armazém não é um passeio de domingo.*\n\nEla se vira, e a silhueta dela se desenha contra o neon avermelhado do letreiro piscante. A textura áspera da parte interna do moletom esfrega levemente contra a sua perna quando ela se move.\n\n*— Nível 12. O armazém 4B fica no setor de refrigeração industrial. Você vai carregar as caixas do topo até o chão. Se uma delas cair, eu te chuto antes que você desça. Se demorar mais de vinte minutos, eu saio. E se você tentar me seguir depois...*\n\nEla para, e a voz dela diminui um tom, quase um sussurro que não é realmente silêncio.\n\n*— Você vai entender o que eu quero dizer.*\n\nEla vira as costas completamente, os pés apertando o chão molhado, esperando que você decida se quer subir ou não.",
+      "created_at": 1792377606.8437524
+    },
+    {
+      "id": 147,
+      "role": "user",
+      "content": "Quando o holofote do drone varre o beco, puxo ela para trás do contêiner. Ela me empurra uma chave de latão marcada 4B e sussurra para eu segurar enquanto usa as duas mãos.",
+      "created_at": 1792377654.7565858
+    },
+    {
+      "id": 148,
+      "role": "assistant",
+      "content": "O ar fica pesado, quase sólido, carregando o cheiro de ozônio e óleo queimado. Ela não se move. Seus pés ficam presos ao concreto, os joelhos dobrados num ângulo que parece inconfortável, mas ela não recua. As duas mãos dela — pequenas, com as unhas curtas e sujas de graxa — pressionam-se contra a sua coxa, as pontas dos dedos roçando o tecido do seu calção enquanto ela empurra a chave de latão para dentro da sua palma. A chave é fria, grossa, marcada com uma letra 4B desgastada pela ferrugem. Ela tem peso real, um peso que não é apenas metálico, mas *físico*. *— Segura.*\n\nO sussurro dela é quase inaudível, mas ela faz a boca tremer — uma micro-expressão que ela esconde imediatamente com a testa franzida em concentração. O braço direito dela se estica sobre o ombro do contêiner, segurando algo que você não consegue ver, enquanto o braço esquerdo segura o seu pulso por uma fração de segundo, firme como um gancho. A luz passa. O zumbido afasta. Ela solta o seu pulso com um movimento brusco, como se tivesse sido queimada, mas mantém a mão no ar, pronta para pegar a chave de volta se você vacilar. A respiração dela vira sopro rápido contra o moletom. Ela não olha para você; olha para o céu entre os prédios, calculando o tempo até o próximo turno de patrulha. *— Não solta,* ela diz, a voz mais baixa do que antes, quase sem eco. — *Ele pode ter uma segunda chave. E se eu estiver atrasada...*\n\nEla para a frase na ponta dos lábios, os olhos castanhos fixos no horizonte, enquanto o brilho do drone desaparece no céu.",
+      "created_at": 1792377730.0654044
+    },
+    {
+      "id": 149,
+      "role": "user",
+      "content": "Divido os pêssegos com ela e digo baixo: 'Os três créditos são metade para cada um. E eu não conto nada ao Capitão Gato sobre esta chave.'",
+      "created_at": 1792377781.5184205
+    },
+    {
+      "id": 150,
+      "role": "assistant",
+      "content": "Ela observa a lata sendo aberta com uma expressão que mistura confusão e desconfiança. Os pêssegos saem de lá com um estalo seco, sucos gotejando em sua pele suja. Ela pega um dos pedaços de fruta sem dizer nada, mastigando devagar, os olhos fixos no céu enquanto a luz do drone desaparece.\n\n*— Metade para cada...?* Ela engole o pedaço e limpa a boca com a manga do moletom. — *Você está louco? Três créditos por uma chave que abre um cofre do setor industrial? Isso é um preço ridículo.*\n\nEla dá de ombros, mas seus olhos não se desprendem dos seus por um segundo. Ela pega o outro pedaço de pêssegos e o guarda no bolso interno do moletom, onde a chave já está escondida. A mão dela fica tensa ali, segurando os dois objetos com cuidado quase reverente.\n\n*— E você não vai contar nada ao Capitão Gato...?* Ela sorri levemente, um sorriso que não chega aos olhos. — *Você sabe o que acontece quando ele descobre que você tem acesso ao armazém? Ele vai te matar antes de usar a chave.*\n\nEla se levanta e começa a caminhar na direção do túnel de carga, sem esperar por uma resposta. O som dos seus passos é lento, hesitante. Ela não se move rápido o suficiente para fugir — mas não fica parada o suficiente para ser alcançada.",
+      "created_at": 1792377843.3608115
+    },
+    {
+      "id": 151,
+      "role": "user",
+      "content": "'A Luz muda à meia-noite ou nas três badaladas? Nunca entendi o horário daqui.'",
+      "created_at": 1792377887.7102242
+    },
+    {
+      "id": 152,
+      "role": "assistant",
+      "content": "Ela para de caminhar, a mão no bolso onde segura a chave. Por um momento, ela parece esquecida da sua existência, os olhos fixos num ponto vazio acima dos prédios — no céu que não é céu. *— A Luz...*\n\nEla solta o ar de repente, como se tivesse sido pega fazendo algo errado, e o sorriso sarcástico volta, mas é mais tenso do que antes. Um leve rubor sobe em seu pescoço, onde a pele pálida contrasta com o couro sintético manchado da jaqueta. *— A meia-noite é quando o sistema de crédito reprograma. As três badaladas... isso é quando a Helix Vantara faz a \"limpeza\".*\n\nEla vira o rosto para você, e os olhos dela brilham com uma intensidade que não é exatamente medo. É uma lembrança que ela não quer ter. *— Você não vai entender. A Luz não é só luz. É... um aviso.*\n\nEla dá um passo à frente, mas não se aproxima. Apenas se posiciona de modo que você veja as linhas finas do moletom sob o pescoço. *— Se você quiser saber, eu posso te contar. Mas você tem que prometer não usar isso para tentar... negociar. O Capitão Gato não gosta de perguntas. E nem eu.*\n\nEla estica o braço, apontando para o túnel escuro que se abre como uma ferida no lado do beco. *— Vamos. E depois, vai ter que carregar as caixas.*",
+      "created_at": 1792377951.890822
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="description" content="Luminus — RPG narrado por IA. Histórias que lembram de você.">
+  <meta name="theme-color" content="#08070F">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Luminus">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>Luminus — RPG narrado por IA</title>
+  <link rel="manifest" href="manifest.json">
+
+  <style>
+    html, body { margin: 0; height: 100%; background: #08070F; }
+    #boot {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 18px;
+      background: radial-gradient(120% 90% at 50% 30%, #1B1442 0%, #0C0333 45%, #08070F 100%);
+      color: #F3F0FF;
+      font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    }
+    #boot img {
+      width: 84px;
+      height: 84px;
+      filter: drop-shadow(0 0 18px rgba(139, 124, 246, .45));
+    }
+    #boot .ring {
+      width: 46px;
+      height: 46px;
+      border-radius: 50%;
+      border: 2px solid rgba(139, 124, 246, .25);
+      border-top-color: #F2C879;
+      animation: luminus-spin 1s linear infinite;
+    }
+    #boot p {
+      margin: 0;
+      font-size: 13px;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: rgba(243, 240, 255, .75);
+    }
+    @keyframes luminus-spin { to { transform: rotate(360deg); } }
+  </style>
+</head>
+<body>
+  <div id="boot">
+    <img src="icons/Icon-192.png" alt="Luminus">
+    <div class="ring"></div>
+    <p>Preparando o mundo</p>
+  </div>
+
+  <script>
+    (function () {
+      const boot = document.getElementById('boot');
+      const done = () => { if (boot) boot.style.display = 'none'; };
+      window.addEventListener('flutter-first-frame', done);
+      const obs = new MutationObserver(() => {
+        if (document.querySelector('flutter-view, flt-glass-pane')) {
+          setTimeout(done, 400);
+          obs.disconnect();
+        }
+      });
+      obs.observe(document.body, { childList: true, subtree: true });
+      setTimeout(done, 20000);
+    })();
+  </script>
+
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

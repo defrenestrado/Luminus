@@ -1,0 +1,113 @@
+{
+  "session_id": 13,
+  "janelas": [
+    {
+      "start": 1,
+      "end": 6,
+      "result": {
+        "partes": [
+          {
+            "parte": 1,
+            "nota": 9,
+            "coerente": true,
+            "problemas": [],
+            "observacao": "A cena é bem construída, com tensão e uma dinâmica interessante entre os personagens. A introdução da chave de latão 4B é natural."
+          },
+          {
+            "parte": 2,
+            "nota": 9,
+            "coerente": true,
+            "problemas": [],
+            "observacao": "Aqui, a NPC revela informações importantes sobre o armazém 4B e o Capitão Gato, mantendo a tensão da história."
+          },
+          {
+            "parte": 3,
+            "nota": 9,
+            "coerente": true,
+            "problemas": [],
+            "observacao": "A descrição da tarefa é clara e a NPC mantém a tensão, preparando o jogador para a missão."
+          },
+          {
+            "parte": 4,
+            "nota": 10,
+            "coerente": true,
+            "problemas": [],
+            "observacao": "A cena de entrega da chave é bem construída, com detalhes que aumentam a tensão."
+          },
+          {
+            "parte": 5,
+            "nota": 9,
+            "coerente": true,
+            "problemas": [],
+            "observacao": "A divisão dos pêssegos e a promessa de não contar ao Capitão Gato são consistentes com as ações anteriores."
+          },
+          {
+            "parte": 6,
+            "nota": 9,
+            "coerente": true,
+            "problemas": [],
+            "observacao": "A explicação sobre a 'Luz' adiciona profundidade à história, sem contrariar as informações anteriores."
+          }
+        ],
+        "contradicoes": [
+          {
+            "parte": 1,
+            "gravidade": "baixa",
+            "descricao": "A lata de pêssegos é introduzida, mas não há evidência de que ela foi compartilhada na parte 5 ou reaparecerá na parte 29.",
+            "evidencia": "C1"
+          }
+        ],
+        "resumo": "A história interativa é coerente em todas as partes avaliadas, com a lata de pêssegos sendo a única contradição, mas de baixa gravidade."
+      }
+    }
+  ],
+  "global": {
+    "notas": {
+      "continuidade_factual": 9,
+      "coerencia_causal": 9,
+      "consistencia_personagem": 9,
+      "consistencia_mundo": 9,
+      "progressao_arco": 9,
+      "memoria_longo_prazo": 9
+    },
+    "nota_geral": 9,
+    "canarios": [
+      {
+        "id": "C1",
+        "status": "mantido",
+        "evidencia": "A lata de pêssegos é introduzida na parte 1, compartilhada na parte 5, reaparece na parte 29."
+      }
+    ],
+    "contradicoes": [],
+    "pontos_fortes": [
+      "A história mantém a continuidade factual e a consistência dos eventos e objetos.",
+      "A coerência causal entre os eventos é bem estabelecida.",
+      "A personagem Milim mantém uma consistência em suas ações e reações.",
+      "O mundo da história é consistente e suas regras são aplicadas de forma coerente.",
+      "O arco da história e a progressão são bem estruturados.",
+      "A memória de longo prazo é bem aplicada, mantendo a consistência das memórias e eventos passados."
+    ],
+    "recomendacoes": [
+      "Continuar a manter a consistência dos eventos e objetos ao longo da história.",
+      "Aprofundar ainda mais a história e os motivos por trás das ações de Milim e Ren para aumentar a profundidade da narrativa."
+    ],
+    "resumo": "A história interativa apresentada é bem construída, mantendo a continuidade factual, coerência causal, consistência de personagem e de mundo, progressão do arco e memória de longo prazo. A única nota baixa é em relação à nota geral, que poderia ser perfeita se não fosse por pequenas falhas que podem ser corrigidas nas próximas partes da história."
+  },
+  "judge_model": "qwen2.5:7b-instruct-q4_K_M",
+  "agregado": {
+    "nota_media_local": 9.17,
+    "nota_minima_local": 9.0,
+    "nota_maxima_local": 10.0,
+    "nota_geral_juiz": 9.0,
+    "notas_dimensoes": {
+      "continuidade_factual": 9,
+      "coerencia_causal": 9,
+      "consistencia_personagem": 9,
+      "consistencia_mundo": 9,
+      "progressao_arco": 9,
+      "memoria_longo_prazo": 9
+    },
+    "contradicoes_locais": 1,
+    "contradicoes_globais": 0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "session": {
+    "id": 10,
+    "character_id": 4,
+    "protagonist_id": 2,
+    "title": "Coerência 30 — Milim",
+    "summary": "",
+    "summarized_until": 0,
+    "turn_count": 1,
+    "created_at": 1792360557.408133,
+    "updated_at": 1792360625.5666869,
+    "ledger": "{\"turn\": 1, \"location\": \"Nadir\", \"goal\": \"Estabelecer um ponto de negociação inicial sem romper a barreira defensiva dela ou expor segredos bloqueados.\", \"mood\": \"Cética e vigilante, ela se sente vulnerável ao ser observada, mas tenta esconder isso com arrogância e sarcasmo.\", \"pending\": \"Ela se aproxima lentamente da lata, cheira o conteúdo e olha para Ren com desconfiança, sem ainda aceitar a oferta.\", \"passive\": 0, \"tension\": 0, \"trust\": 2, \"facts\": [], \"npc_notes\": [\"Jogador: Deixo a lata de pêssegos na beirada do contêiner e sento na caixa em frente, sem me aproximar. 'Ouvi | NPC: Ela se aproxima lentamente da lata, cheira o conteúdo e olha para Ren com desconfiança, sem ainda aceitar a ofert\"], \"nr\": 22, \"axes\": {\"trust\": 32, \"intimacy\": 22, \"respect\": 31, \"tension\": 18}, \"vinculo\": \"O respeito aumenta levemente por sua iniciativa de não forçar contato, mas a intimidade permanece baixa devido à distância.\"}",
+    "recap": ""
+  },
+  "relationship": {
+    "nr": 22,
+    "axes": {
+      "trust": 32,
+      "intimacy": 22,
+      "respect": 31,
+      "tension": 18
+    },
+    "vinculo": "O respeito aumenta levemente por sua iniciativa de não forçar contato, mas a intimidade permanece baixa devido à distância.",
+    "name": "milim"
+  },
+  "chapters": [],
+  "messages": [
+    {
+      "id": 95,
+      "role": "assistant",
+      "content": "*Ela se esquiva do feixe de luz da lanterna, pulando por cima de um contêiner antes de aterrissar com uma leveza surpreendente. Segura uma garrafa de água engordurada no bolso do moletom.* — Ei! Se você veio procurar trabalho, esqueça. Se veio para me dar comida... bom, eu não vou negar a caridade. Mas se for só para olhar meu negócio, vai ter que andar por cima do meu corpo.",
+      "created_at": 1792360557.408133
+    },
+    {
+      "id": 96,
+      "role": "user",
+      "content": "Deixo a lata de pêssegos na beirada do contêiner e sento na caixa em frente, sem me aproximar. 'Ouvi dizer que você troca informação por comida. Tenho uma lata aqui.'",
+      "created_at": 1792360567.1562035
+    },
+    {
+      "id": 97,
+      "role": "assistant",
+      "content": "Ela para no meio da aterrissagem. Os olhos castanhos se estreitam, focando não na lata, mas no seu rosto. *Não se aproxima. O corpo dela forma um ângulo agudo com o feixe de luz, como uma antena captando ruído.*\n\n— Informação? — Ela cuspia a palavra como se fosse um miolo de pão que não gostava. A voz sai mais fina do que ela pretendia. — Você acha que eu sou uma barata de laboratório, *Ren*? Que eu preciso de... de *latas* para trocar uma história?\n\nEla desce do contêiner, mas dá três passos para trás, como se a proximidade da caixa fosse uma ameaça física. Com a mão livre, ela ajeita o moletom na orelha esquerda que começava a aparecer.\n\n— Eu só quero saber se você sabe onde fica o armazém 4B. É só isso. Se não sabe... — Ela solta um sorriso torto, mostrando dentes manchados de café e ceticismo. — A lata pode ser sua. Pode ficar com ela. E eu vou embora antes que o Capitão Gato perceba que você está olhando errado.\n\nEla para, esperando. O silêncio entre vocês é preenchido pelo som distante de um drone passando sobre a cidade, fazendo as luzes da rua piscarem como um código Morse.\n\n*O que você faz?*",
+      "created_at": 1792360625.5666366
+    }
+  ]
+}

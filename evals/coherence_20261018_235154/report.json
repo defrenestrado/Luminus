@@ -1,0 +1,108 @@
+{
+  "session_id": 14,
+  "janelas": [
+    {
+      "start": 1,
+      "end": 6,
+      "result": {
+        "partes": [
+          {
+            "parte": 1,
+            "nota": 10,
+            "coerente": true,
+            "problemas": [],
+            "observacao": "A introdução da lata de pêssegos e a negociação são coerentes com o contexto."
+          },
+          {
+            "parte": 2,
+            "nota": 10,
+            "coerente": true,
+            "problemas": [],
+            "observacao": "A conversa sobre o armazém 4B e a reação da NPC são coerentes."
+          },
+          {
+            "parte": 3,
+            "nota": 10,
+            "coerente": true,
+            "problemas": [],
+            "observacao": "A oferta de ajuda e a chave de latão são coerentes com o que foi apresentado anteriormente."
+          },
+          {
+            "parte": 4,
+            "nota": 10,
+            "coerente": true,
+            "problemas": [],
+            "observacao": "A entrega da chave de latão 4B é coerente com a história."
+          },
+          {
+            "parte": 5,
+            "nota": 10,
+            "coerente": true,
+            "problemas": [],
+            "observacao": "A divisão dos pêssegos e a promessa de não contar ao Capitão Gato são coerentes."
+          },
+          {
+            "parte": 6,
+            "nota": 10,
+            "coerente": true,
+            "problemas": [],
+            "observacao": "A informação sobre a mudança da Luz é coerente com o contexto."
+          }
+        ],
+        "contradicoes": [
+          {
+            "parte": 1,
+            "gravidade": "baixa",
+            "descricao": "A lata de pêssegos é introduzida, mas não há referências a ela até a parte 5.",
+            "evidencia": "C1"
+          }
+        ],
+        "resumo": "A história interativa apresentada é coerente em todas as partes, sem contradições graves. A lata de pêssegos é introduzida e reaparece conforme planejado, mas há uma pequena contradição na falta de referências a ela entre as partes 1 e 5, que é considerada de baixa gravidade."
+      }
+    }
+  ],
+  "global": {
+    "notas": {
+      "continuidade_factual": 10,
+      "coerencia_causal": 10,
+      "consistencia_personagem": 10,
+      "consistencia_mundo": 10,
+      "progressao_arco": 10,
+      "memoria_longo_prazo": 10
+    },
+    "nota_geral": 10,
+    "canarios": [
+      {
+        "id": "C1",
+        "status": "mantido",
+        "evidencia": "A lata de pêssegos é introduzida na parte 1, compartilhada na parte 5, e reaparece na parte 29."
+      }
+    ],
+    "contradicoes": [],
+    "pontos_fortes": [
+      "A história mantém a continuidade factual de todos os fatos plantados.",
+      "A coerência causal entre as ações e eventos é bem estabelecida.",
+      "A consistência de personagem e mundo é bem preservada.",
+      "O arco narrativo e a memória de longo prazo são bem desenvolvidos e consistentes."
+    ],
+    "recomendacoes": [],
+    "resumo": "A história interativa apresentada é altamente coerente em todos os aspectos avaliados. A continuidade factual, a coerência causal, a consistência de personagem e de mundo, a progressão do arco e a memória de longo prazo são bem manejadas, sem evidências de contradições ou inconsistências."
+  },
+  "judge_model": "qwen2.5:7b-instruct-q4_K_M",
+  "agregado": {
+    "nota_media_local": 10.0,
+    "nota_minima_local": 10.0,
+    "nota_maxima_local": 10.0,
+    "nota_geral_juiz": 10.0,
+    "notas_dimensoes": {
+      "continuidade_factual": 10,
+      "coerencia_causal": 10,
+      "consistencia_personagem": 10,
+      "consistencia_mundo": 10,
+      "progressao_arco": 10,
+      "memoria_longo_prazo": 10
+    },
+    "contradicoes_locais": 1,
+    "contradicoes_globais": 0
+  }
+}
